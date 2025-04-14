@@ -2,5 +2,8 @@
   "dependencies": {
     "mysql2": "^3.14.0",
     "node-telegram-bot-api": "^0.66.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
